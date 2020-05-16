@@ -1,10 +1,10 @@
 # Your code goes here!
 class Anagram
   
-def initialize(word)
-end
-
-def match
+  def initialize(word)
+  end
   
-end
+  def match
+    
+  end
 end
